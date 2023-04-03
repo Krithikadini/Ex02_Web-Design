@@ -20,33 +20,26 @@
   
 ## CODE
 <html>
-<style>
-.hrstyle{
- height:5px;
-color:red;
-background-color:red;
-}
-</style>
 <body bgcolor="cyan">
-<h1 style="font-size:80px;"><p style ="text-align:center">Saveetha Engineering College </h1>
-<hr class ="hrstyle">
-<ol type="A" style ="font-size :40px">
-<li> Agricultural Enginering </li>
-<li> Computer Science & Engineering</li>
-<li> Informtion Technology </li>
-<li> Data Science </li>
+<h1 style="font-size:60px;">
+<p style ="text-align: center">Saveetha Engineering College</h1>
+<hr width="1500px" color="red" size="7px" />
+<ol type="A"style="font-size:40px">
+<li>Agriculture Engineering</li>
+<li>Computer Science & Engineering</li>
+<li>Information Technology</li>
+<li>Data Science</li>    
 <ul>
-<li> Artificial Intelligence - Machine Learning  </li>
-<li> Artificial Intelligence -  Data Science </li>
-<li>  Internet of Things </li>
+<li>Artificial Intelligence - Machine Learning </li>
+<li>Artificial Intelligence - Data Science</li>
+<li>Internet of Things</li>
 </ul>
-<li> Electronics & Communication Engineering</li>
-<li> Electrical & Electronics Engineering</li>
-<li> Mechanical Engineering</li>
+<li>Electronics & Communication Engineering</li>
+<li>Electrical & Electronics Engineering</li>
+<li>Mechanical Engineering</li>
 </ol>
 </body>
-</html> 
-
+</html>
 ## OUTPUT
 
 
