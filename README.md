@@ -19,6 +19,7 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
 <html>
 <body bgcolor="cyan">
 <h1 style="font-size:60px;">
@@ -40,6 +41,7 @@
 </ol>
 </body>
 </html>
+```
 ## OUTPUT
 
 
